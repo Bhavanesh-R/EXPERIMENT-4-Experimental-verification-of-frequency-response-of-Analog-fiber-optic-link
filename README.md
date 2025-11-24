@@ -2,13 +2,13 @@
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
 # Fiber Optic Link Analysis (660nm)
 
-## AIM :
+## AIM
 To analyze the relationship between input and received signal of a 660nm fiber optic cable using analog and digital link.
 
 ---
 
 
-## EQUIPMENTS REQUIRED :
+## EQUIPMENTS REQUIRED
 - Fiber optic trainer kit ST 2502  
 - Power supply  
 - Patch cords  
@@ -17,7 +17,7 @@ To analyze the relationship between input and received signal of a 660nm fiber o
 
 ---
 
-## THEORY:
+## THEORY
 
 Fiber optic links can be used for transmission of digital as well as analog signals. A fiber optic link typically consists of three main elements:
 - **Transmitter**: Converts the electrical input signal into optical (light) energy.
@@ -26,7 +26,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## PROCEDURE :
+## PROCEDURE
 
 1. Connect the power supply to the board.  
 2. Ensure that all switched faults are set to ‘Off’.  
@@ -42,20 +42,20 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## BLOCK DIAGRAM :
+## BLOCK DIAGRAM
 
 <img width="931" height="555" alt="image" src="https://github.com/user-attachments/assets/f7933923-f8d4-49d0-bbb6-0eb8954dae45" />
 
 ---
 
-## CONNECTION DIAGRAM : 
+## CONNECTION DIAGRAM  
 **Setting up an Analog Link**
 
-*(Insert connection diagram here)*
+<img width="931" height="555" alt="image" src="https://github.com/user-attachments/assets/f7933923-f8d4-49d0-bbb6-0eb8954dae45" />
 
 ---
 
-## TABULATION : 
+## TABULATION  
 **Transmission through Analog Link**
 
 | Frequency (Hz) | Output Signal Amplitude (V) | Gain = Vo / Vi | Gain (dB) |
@@ -74,12 +74,13 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-## MODEL GRAPH:
+## MODEL GRAPH
 
 <img width="1290" height="674" alt="image" src="https://github.com/user-attachments/assets/76f5d47f-6e80-4c84-b13f-b9ffe1aca44d" />
+<img width="1125" height="824" alt="image" src="https://github.com/user-attachments/assets/f7c7ee53-b692-4cd3-89f6-0c3376366e9a" />
 
 ---
 
-## RESULT:
+## RESULT
 
-Thus the relationship between input and received output signal from 660nm fibre optic cable using analog link is analyzed.
+Thus, the relationship between input and received output signal from 660nm fibre optic cable using analog link is analyzed
